@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\bin\Debug\netcoreapp2.1\03.ValidationOfData.deps.json
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\bin\Debug\netcoreapp2.1\03.ValidationOfData.runtimeconfig.json
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\bin\Debug\netcoreapp2.1\03.ValidationOfData.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\bin\Debug\netcoreapp2.1\03.ValidationOfData.dll
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\bin\Debug\netcoreapp2.1\03.ValidationOfData.pdb
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\obj\Debug\netcoreapp2.1\03.ValidationOfData.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\obj\Debug\netcoreapp2.1\03.ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\obj\Debug\netcoreapp2.1\03.ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\obj\Debug\netcoreapp2.1\03.ValidationOfData.AssemblyInfo.cs
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\obj\Debug\netcoreapp2.1\03.ValidationOfData.dll
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\03.ValidationOfData\obj\Debug\netcoreapp2.1\03.ValidationOfData.pdb

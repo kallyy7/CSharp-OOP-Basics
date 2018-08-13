@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortPersonsByNameAndAge", "01.SortPersonsByNameAndAge\01.SortPersonsByNameAndAge.csproj", "{070BC5FC-36B6-4268-A0AB-65B24CB0FB44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SortPersonsByNameAndAge", "01.SortPersonsByNameAndAge\01.SortPersonsByNameAndAge.csproj", "{070BC5FC-36B6-4268-A0AB-65B24CB0FB44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Salary", "02.Salary\02.Salary.csproj", "{CC36FA19-5320-4DF5-92B5-C36DB870FF8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Salary", "02.Salary\02.Salary.csproj", "{CC36FA19-5320-4DF5-92B5-C36DB870FF8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ValidationOfData", "03.ValidationOfData\03.ValidationOfData.csproj", "{B96FD09C-836E-4829-A053-C9190845E72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FirstAndReserveTeam", "04.FirstAndReserveTeam\04.FirstAndReserveTeam.csproj", "{E7F9CEB7-ECF1-473B-9EB1-407C81D23C5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{CC36FA19-5320-4DF5-92B5-C36DB870FF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC36FA19-5320-4DF5-92B5-C36DB870FF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC36FA19-5320-4DF5-92B5-C36DB870FF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96FD09C-836E-4829-A053-C9190845E72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96FD09C-836E-4829-A053-C9190845E72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96FD09C-836E-4829-A053-C9190845E72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96FD09C-836E-4829-A053-C9190845E72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F9CEB7-ECF1-473B-9EB1-407C81D23C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F9CEB7-ECF1-473B-9EB1-407C81D23C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F9CEB7-ECF1-473B-9EB1-407C81D23C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F9CEB7-ECF1-473B-9EB1-407C81D23C5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

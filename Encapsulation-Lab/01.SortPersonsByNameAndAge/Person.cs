@@ -10,9 +10,9 @@
 
         public Person(string firstName, string lastName, int age)
         {
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.age = age;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Age = age;
         }
 
         public string FirstName

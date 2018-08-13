@@ -12,10 +12,10 @@
 
         public Person(string firstName, string lastName, int age, decimal salary)
         {
-            this.firstName = firstName;
-            this.lastName = lastName;
-            this.age = age;
-            this.salary = salary;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Age = age;
+            this.Salary = salary;
         }
 
         public string FirstName
