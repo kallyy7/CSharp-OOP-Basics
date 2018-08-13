@@ -16,7 +16,7 @@
             persons.OrderBy(p => p.FirstName)
                 .ThenBy(p => p.Age)
                 .ToList()
-                .ForEach(p => System.Console.WriteLine(p.ToString()));
+                .ForEach(p => Console.WriteLine(p.ToString()));
         }
 
         private static void Add(int n, List<Person> persons)

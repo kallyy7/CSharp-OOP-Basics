@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\bin\Debug\netcoreapp2.1\02.Salary.deps.json
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\bin\Debug\netcoreapp2.1\02.Salary.runtimeconfig.json
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\bin\Debug\netcoreapp2.1\02.Salary.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\bin\Debug\netcoreapp2.1\02.Salary.dll
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\bin\Debug\netcoreapp2.1\02.Salary.pdb
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\obj\Debug\netcoreapp2.1\02.Salary.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\obj\Debug\netcoreapp2.1\02.Salary.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\obj\Debug\netcoreapp2.1\02.Salary.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\obj\Debug\netcoreapp2.1\02.Salary.AssemblyInfo.cs
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\obj\Debug\netcoreapp2.1\02.Salary.dll
+C:\Users\a38145\Desktop\SoftUni\CSharp-OOP-Basics\Encapsulation-Lab\02.Salary\obj\Debug\netcoreapp2.1\02.Salary.pdb

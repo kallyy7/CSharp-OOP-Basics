@@ -1,4 +1,4 @@
-﻿namespace _01.SortPersonsByNameAndAge
+﻿namespace _02.Salary
 {
     public class Person
     {
@@ -8,11 +8,14 @@
 
         private int age;
 
-        public Person(string firstName, string lastName, int age)
+        private decimal salary;
+
+        public Person(string firstName, string lastName, int age, decimal salary)
         {
             this.firstName = firstName;
             this.lastName = lastName;
             this.age = age;
+            this.salary = salary;
         }
 
         public string FirstName
@@ -33,9 +36,27 @@
             set => age = value;
         }
 
+        public decimal Salary
+        {
+            get => this.salary;
+            set => salary = value;
+        }
+
+        public void IncreaseSalary(decimal bonus)
+        {
+            if (this.Age > 30)
+            {
+                this.salary += this.salary * bonus / 100;
+            }
+            else
+            {
+                this.salary += this.salary * bonus / 200;
+            }
+        }
+
         public override string ToString()
         {
-            return $"{this.FirstName} {this.LastName} is {this.Age} years old.";
+            return $"{this.FirstName} {this.LastName} receives {this.Salary:f2} leva.";
         }
     }
 }
