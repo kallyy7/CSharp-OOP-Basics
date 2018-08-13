@@ -1,1 +1,46 @@
-# CSharp-OOP-Basics-
+<p align="center"><img src="http://spaceappschallengebulgaria.eu/sites/default/files/softuni.png" width = 250 /></p>
+
+# <a href=""><p align="center"> C# OOP Basics <p></a>
+
+## PROGRAM
+<table>
+<tr>
+  <th></th><th>Lection</th><th>Lab</th><th>Exercise</th>
+</tr>
+<tr>
+  <td>1</td>
+  <th>DEFINING CLASSES</th>
+  <td><a href="" >LINK</a></td>
+  <td><a href="" >LINK</a></td>
+</tr>
+<tr>
+  <td>2</td>
+  <th>WORKING WITH ABSTRACTION</th>
+  <td><a href="" >LINK</a></td>
+  <td><a href="" >LINK</a></td>
+<tr>
+    <td>3</td>
+    <th>INHERITANCE</th>
+    <td><a href="" >LINK</a></td>
+    <td><a href="" >LINK</a></td>
+</tr>
+</tr>
+  <tr>
+  <td>4</td>
+    <th>ENCAPSULATION</th>
+    <td><a href="" >LINK</a></td>
+    <td><a href="" >LINK</a></td>
+</tr>
+<tr>
+  <td>5</td>
+    <th>INTERFACES AND ABSTRACTION</th>
+    <td><a href="" >LINK</a></td>
+    <td><a href="" >LINK</a></td>
+</tr>
+<tr>
+  <td>6</td>
+    <th>POLYMORPHISM</th>
+    <td><a href="" >LINK</a></td>
+    <td><a href="" >LINK</a></td>
+</tr>
+  </table>
