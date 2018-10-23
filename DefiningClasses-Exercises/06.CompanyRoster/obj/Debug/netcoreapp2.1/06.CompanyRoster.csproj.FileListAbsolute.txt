@@ -1,0 +1,10 @@
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\bin\Debug\netcoreapp2.1\06.CompanyRoster.deps.json
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\bin\Debug\netcoreapp2.1\06.CompanyRoster.runtimeconfig.json
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\bin\Debug\netcoreapp2.1\06.CompanyRoster.runtimeconfig.dev.json
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\bin\Debug\netcoreapp2.1\06.CompanyRoster.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\bin\Debug\netcoreapp2.1\06.CompanyRoster.pdb
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\obj\Debug\netcoreapp2.1\06.CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\obj\Debug\netcoreapp2.1\06.CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\obj\Debug\netcoreapp2.1\06.CompanyRoster.AssemblyInfo.cs
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\obj\Debug\netcoreapp2.1\06.CompanyRoster.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\06.CompanyRoster\obj\Debug\netcoreapp2.1\06.CompanyRoster.pdb

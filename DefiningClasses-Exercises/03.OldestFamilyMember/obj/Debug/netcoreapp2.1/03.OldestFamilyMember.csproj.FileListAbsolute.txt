@@ -1,0 +1,11 @@
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.deps.json
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.runtimeconfig.json
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\bin\Debug\netcoreapp2.1\03.OldestFamilyMember.pdb
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\03.OldestFamilyMember\obj\Debug\netcoreapp2.1\03.OldestFamilyMember.pdb

@@ -1,0 +1,10 @@
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\bin\Debug\netcoreapp2.1\01.DefineClassPerson.deps.json
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\bin\Debug\netcoreapp2.1\01.DefineClassPerson.runtimeconfig.json
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\bin\Debug\netcoreapp2.1\01.DefineClassPerson.runtimeconfig.dev.json
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\bin\Debug\netcoreapp2.1\01.DefineClassPerson.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\bin\Debug\netcoreapp2.1\01.DefineClassPerson.pdb
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\obj\Debug\netcoreapp2.1\01.DefineClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\obj\Debug\netcoreapp2.1\01.DefineClassPerson.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\obj\Debug\netcoreapp2.1\01.DefineClassPerson.AssemblyInfo.cs
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\obj\Debug\netcoreapp2.1\01.DefineClassPerson.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\01.DefineClassPerson\obj\Debug\netcoreapp2.1\01.DefineClassPerson.pdb

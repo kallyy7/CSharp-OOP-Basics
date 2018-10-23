@@ -1,0 +1,10 @@
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.deps.json
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.runtimeconfig.json
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.runtimeconfig.dev.json
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\bin\Debug\netcoreapp2.1\05.DateModifier.pdb
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.AssemblyInfo.cs
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\05.DateModifier\obj\Debug\netcoreapp2.1\05.DateModifier.pdb

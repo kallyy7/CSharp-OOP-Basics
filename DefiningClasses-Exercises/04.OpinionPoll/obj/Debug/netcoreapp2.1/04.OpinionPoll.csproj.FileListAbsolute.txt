@@ -1,0 +1,10 @@
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\bin\Debug\netcoreapp2.1\04.OpinionPoll.deps.json
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\bin\Debug\netcoreapp2.1\04.OpinionPoll.runtimeconfig.json
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\bin\Debug\netcoreapp2.1\04.OpinionPoll.runtimeconfig.dev.json
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\bin\Debug\netcoreapp2.1\04.OpinionPoll.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\bin\Debug\netcoreapp2.1\04.OpinionPoll.pdb
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\obj\Debug\netcoreapp2.1\04.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\obj\Debug\netcoreapp2.1\04.OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\obj\Debug\netcoreapp2.1\04.OpinionPoll.AssemblyInfo.cs
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\obj\Debug\netcoreapp2.1\04.OpinionPoll.dll
+C:\Users\milan\Desktop\DefiningClassesExercise\04.OpinionPoll\obj\Debug\netcoreapp2.1\04.OpinionPoll.pdb
