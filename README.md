@@ -1,6 +1,7 @@
 <p align="center"><img src="http://spaceappschallengebulgaria.eu/sites/default/files/softuni.png" width = 250 /></p>
 
 # <a href=""><p align="center"> C# OOP Basics <p></a>
+## <a href="https://softuni.bg/certificates/details/59700/dc8a0cf7" ><p align="center"> CERTIFICATE <p></a>
 
 ## PROGRAM
 <table>
