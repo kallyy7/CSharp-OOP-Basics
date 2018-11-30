@@ -12,31 +12,31 @@
   <td>1</td>
   <th>DEFINING CLASSES</th>
   <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/DefiningClasses-Lab" >LINK</a></td>
-  <td><a href="" >LINK</a></td>
+  <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/DefiningClasses-Exercises" >LINK</a></td>
 </tr>
 <tr>
   <td>2</td>
   <th>WORKING WITH ABSTRACTION</th>
   <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/WorkingWithAbstraction-Lab" >LINK</a></td>
-  <td><a href="" >LINK</a></td>
+  <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/WorkingWithAbstraction-Exercises" >LINK</a></td>
 <tr>
     <td>3</td>
     <th>INHERITANCE</th>
     <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/Inheritance-Lab" >LINK</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/Inheritance-Exercises" >LINK</a></td>
 </tr>
 </tr>
   <tr>
   <td>4</td>
     <th>ENCAPSULATION</th>
     <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/Encapsulation-Lab" >LINK</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/InterfacesAndAbstraction-Exercises" >LINK</a></td>
 </tr>
 <tr>
   <td>5</td>
     <th>INTERFACES AND ABSTRACTION</th>
     <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/InterfacesAndAbstraction-Lab" >LINK</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/CSharp-OOP-Basics/tree/master/Encapsulation-Exercises" >LINK</a></td>
 </tr>
 <tr>
   <td>6</td>
